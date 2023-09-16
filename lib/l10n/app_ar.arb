@@ -1,0 +1,11 @@
+{
+  "selectDate": "اختر الوقت",
+  "enterTask": "ادخل المهمه",
+  "describeTask": "صف المهمه",
+  "addNewTask":"ادخل مهمه جديده",
+  "delete":"مسح",
+  "edit":"تعديل",
+  "noTasks":"لا توجد مهام",
+  "lang": "اللغه",
+  "them": "السمات"
+}

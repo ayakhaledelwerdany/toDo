@@ -1,0 +1,11 @@
+{
+ "selectDate": "Select Date",
+  "enterTask": "Enter Your Task",
+  "describeTask": "Describe Your Task",
+  "addNewTask":"Add New Task",
+  "delete":"Delete",
+  "edit":"Edit",
+  "noTasks":"No Taskes",
+  "lang": "Language",
+  "them": "Them"
+}
